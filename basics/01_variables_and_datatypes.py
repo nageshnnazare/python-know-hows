@@ -67,8 +67,8 @@ Python has three numeric types:
     ┌─────────────────────────────────────┐
     │      Numeric Types in Python        │
     ├─────────────────────────────────────┤
-    │  int    → Whole numbers             │
-    │  float  → Decimal numbers           │
+    │  int     → Whole numbers            │
+    │  float   → Decimal numbers          │
     │  complex → Complex numbers (a + bi) │
     └─────────────────────────────────────┘
 """
@@ -224,7 +224,7 @@ Converting between different data types:
     str()     → Convert to string
     bool()    → Convert to boolean
     
-    ┌─────────┐      int()      ┌─────────┐
+    ┌─────────┐      int()       ┌─────────┐
     │ "123"   │  ──────────────> │   123   │
     │ (str)   │                  │ (int)   │
     └─────────┘                  └─────────┘
